@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__codex__codex",
+      "mcp__codex__codex-reply",
+      "Write",
+      "Edit",
+      "Skill(auto-review-loop)"
+    ]
+  }
+}
